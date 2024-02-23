@@ -21,7 +21,7 @@ Install dependencies (assuming you have Python and pip installed)
 ```bash
 pip install -r requirements.txt
 ```
-Quick Start
+#### Quick Start
 
 Prepare Your Dataset: Ensure your dataset is in the correct format.
 
@@ -34,7 +34,7 @@ Run Model Inference:
 ```bash
 python optimizer_src/optimizer_inference.py --model path/to/your/fine_tuned_model
 ```
-Contribution
+## Contribution
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 ```Python
@@ -44,7 +44,7 @@ Contributions are what make the open-source community such an amazing place to l
     Push to the Branch (git push origin feature/AmazingFeature)
     Open a Pull Request
 ```
-Support
+## Support
 
 For support, please open an issue in the GitHub repository or contact us directly at support@example.com.
 License
